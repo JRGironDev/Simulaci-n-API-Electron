@@ -1,0 +1,15 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "simulación API electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "jose",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.1.0",
+    "mousetrap": "^1.6.5"
+  }
+}

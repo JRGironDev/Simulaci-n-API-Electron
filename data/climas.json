@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estadoMañana": "img/nublado.png",
+    "temperaturaMañana": "5°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 2,
+    "estadoMañana": "img/despejado.png",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "img/despejado.png",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 3,
+    "estadoMañana": "img/lluvia.png",
+    "temperaturaMañana": "5°C",
+    "estadoTarde": "img/lluvia.png",
+    "temperaturaTarde": "5°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "10°C"
+  },
+  {
+    "id": 4,
+    "estadoMañana": "img/nublado.png",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 5,
+    "estadoMañana": "img/despejado.png",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 6,
+    "estadoMañana": "img/lluvia.png",
+    "temperaturaMañana": "10°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "15°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 7,
+    "estadoMañana": "img/nublado.png",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "img/despejado.png",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "15°C"
+  },
+  {
+    "id": 8,
+    "estadoMañana": "img/despejado.png",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "img/despejado.png",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 9,
+    "estadoMañana": "img/lluvia.png",
+    "temperaturaMañana": "15°C",
+    "estadoTarde": "img/lluvia.png",
+    "temperaturaTarde": "10°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "5°C"
+  },
+  {
+    "id": 10,
+    "estadoMañana": "img/nublado.png",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "25°C"
+  },
+  {
+    "id": 11,
+    "estadoMañana": "img/despejado.png",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "img/despejado.png",
+    "temperaturaTarde": "30°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "30°C"
+  },
+  {
+    "id": 12,
+    "estadoMañana": "img/lluvia.png",
+    "temperaturaMañana": "20°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 13,
+    "estadoMañana": "img/nublado.png",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "img/despejado.png",
+    "temperaturaTarde": "30°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "25°C"
+  },
+  {
+    "id": 14,
+    "estadoMañana": "img/despejado.png",
+    "temperaturaMañana": "30°C",
+    "estadoTarde": "img/nublado.png",
+    "temperaturaTarde": "25°C",
+    "estadoNoche": "img/nublado.png",
+    "temperaturaNoche": "20°C"
+  },
+  {
+    "id": 15,
+    "estadoMañana": "img/lluvia.png",
+    "temperaturaMañana": "25°C",
+    "estadoTarde": "img/lluvia.png",
+    "temperaturaTarde": "20°C",
+    "estadoNoche": "img/despejado.png",
+    "temperaturaNoche": "15°C"
+  }
+]

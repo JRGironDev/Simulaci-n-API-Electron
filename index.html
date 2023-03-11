@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Simulación API Clima</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="preload" href="css/normalize.css" as="style" />
+    <link rel="stylesheet" href="css/normalize.css" />
+
+    <link rel="preload" href="css/style.css" as="style" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="contenedor contenido-principal contenedor-flex">
+      <h1 class="contenedor centrar-texto">Simulación API Clima</h1>
+      <form class="form-contenedor">
+        <div class="form-grupo">
+          <label class="form-label" for="fechaConsulta">Fecha:</label>
+          <input
+            type="date"
+            id="fecha-consulta"
+            name="fechaConsulta"
+            class="form-input"
+            placeholder=" "
+          />
+        </div>
+        <input
+          type="button"
+          id="consultarClima"
+          class="form-submit opacidad"
+          value="Consultar Clima"
+          disabled
+        />
+      </form>
+      <div class="respuesta centrar-texto"></div>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
